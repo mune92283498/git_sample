@@ -12,3 +12,9 @@ puts <<~TEXT
 どかーん！！
 
 TEXT
+
+konohas = ["naruto","sasuke","sakura","kakashi","ree","negi","tenten","gai","shikamaru","choji","ino","kurenai"]
+
+konohas.each do |konoha|
+puts konoha
+end
